@@ -1,5 +1,8 @@
 Consume API AES Enkripsi
 
-Nama : Saifurrohman
-NIM : 2006139
+Kelompok :
+-Saifurrohman
+-Muhammad Rifaldi
+-Ayank Tio
+-Ramdan Ramhmat Hidayat
 Kelas : D
